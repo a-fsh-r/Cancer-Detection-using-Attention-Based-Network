@@ -7,7 +7,7 @@ This project implements an **attention-based deep neural network** for **breast 
 
 Accurate classification of breast cancer subtypes in histopathology images is a crucial step in computer-aided diagnosis. We leverage attention modules in deep neural networks to enable the model (VGG16) to learn where to focus, helping both improve prediction performance and provide visual explanations for clinical validation.
 
-The model was trained and evaluated on a labeled dataset of histopathological image patches.
+The model was trained and evaluated on a labeled dataset of histopathological image patches. (Breast Cancer)
 
 ## 🖼️ Model Architecture
 
